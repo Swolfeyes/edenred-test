@@ -1,0 +1,105 @@
+{
+  "title": "Old book illustrations",
+  "subtitle": "Tachnology books",
+  "books": {
+    "0": {
+      "title": "Beaumont Boring Machine",
+      "artist": "Broux, P.",
+      "country": "France",
+      "book": "Les nouvelles conquêtes de la science, vol. 2",
+      "author": " Figuier, Louis",
+      "description": "View of the Boring machine designed by Frederick Beaumont in action on the French side of the first attempted Channel Tunnel. The shaft was rotated by a two-cylinder engine powered by compressed air. This device was successfully tested in the Channel chalk.",
+      "img": "https://www.oldbookillustrations.com/wp-content/uploads/2018/03/beaumont-machine.jpg"
+    },
+    "1": {
+      "title": "Diamond Drilling Machine",
+      "artist": "Unknown",
+      "country": "France",
+      "book": "Les nouvelles conquêtes de la science, vol. 2",
+      "author": " Figuier, Louis",
+      "description": "View of the Boring machine designed by Frederick Beaumont in action on the French side of the first attempted Channel Tunnel. The shaft was rotated by a two-cylinder engine powered by compressed air. This device was successfully tested in the Channel chalk.",
+      "img": "https://www.oldbookillustrations.com/wp-content/uploads/2018/02/diamond-boring-machine.jpg"
+    },
+    "2": {
+      "title": "Ferrouxs Boring Machine",
+      "artist": "Unknown",
+      "country": "Unknown",
+      "book": "Les nouvelles conquêtes de la science, vol. 2",
+      "author": "Figuier, Louis",
+      "description": "View of Ferroux’s boring machine with its operating crew. This pneumatic boring machine was used in the cutting of the Gotthard Tunnel and was an improvement on the machine used for the Fréjus Rail Tunnel.",
+      "img": "https://www.oldbookillustrations.com/wp-content/uploads/2018/02/ferroux-boring-machine.jpg"
+    },
+    "3": {
+      "title": "The Clipper of the Clouds.",
+      "artist": "Benett, Léon",
+      "country": "France",
+      "book": "The clipper of the clouds",
+      "author": "Verne, Jules",
+      "description": "View of an aircraft shaped like a ship, showing a large propeller on the visible end and numerous small rotors supported by masts of various sizes.",
+      "img": "https://www.oldbookillustrations.com/wp-content/uploads/2018/05/clipper-clouds.jpg"
+    },
+    "4": {
+      "title": "Metropolitan Railway at Clerkenwell Tunnel",
+      "artist": "Broux, P.",
+      "country": "France",
+      "book": "Les nouvelles conquêtes de la science, vol. 2",
+      "author": "Figuier, Louis",
+      "description": "View of a train crossing another over a bridge on the Metropolitan Railway near Clerkenwell Tunnel, with the street stretching out higher still, over a second bridge.",
+      "img": "https://www.oldbookillustrations.com/wp-content/uploads/2018/03/clerkenwell-tunnel-2.jpg"
+    },
+    "5": {
+      "title": "Burnton Boring Machina",
+      "artist": "Unknown",
+      "country": "Unknown",
+      "book": "Les nouvelles conquêtes de la science, vol. 2",
+      "author": "Figuier, Louis",
+      "description": "Previously used in quarries, the Brunton machine was given a run in 1882 in a test tunnel near Sangatte, off the site of the first Channel Tunnel.",
+      "img": "https://www.oldbookillustrations.com/wp-content/uploads/2018/03/brunton-machine.jpg"
+    },
+    "6": {
+      "title": "Tunnel Boring Machine in Action",
+      "artist": "Unknown",
+      "country": "Unknown",
+      "book": "Figuier, Louis",
+      "author": "Les nouvelles conquêtes de la science, vol. 2",
+      "description": "A crew of workers operates a boring machine for the cutting of the Fréjus Rail Tunnel (also known as Mont Cenis Tunnel).",
+      "img": "https://www.oldbookillustrations.com/wp-content/uploads/2018/02/boring-machine-frejus-tunnel.jpg"
+    },
+    "7": {
+      "title": "London Underground",
+      "artist": "Broux, P.",
+      "country": "France",
+      "book": "Les nouvelles conquêtes de la science, vol. 2",
+      "author": "Figuier, Louis",
+      "description": "Cross section of a London street showing the surface, with buildings, pavements, and passers-by, the gas and water mains, pneumatic tube, sewage pipes, and the underground Metropolitan Railway.",
+      "img": "https://www.oldbookillustrations.com/wp-content/uploads/2018/02/london-underground-1.jpg"
+    },
+    "8": {
+      "title": "Steel into Cannon",
+      "artist": "Benett, Léon",
+      "country": "France",
+      "book": "Les cinq cents millions de La Bégum",
+      "author": "Verne, Jules",
+      "description": "Workers are hammering steel on an anvil in a busy factory workshop as cannons are being hoisted around and a steam hammer can be seen in the background.",
+      "img": "https://www.oldbookillustrations.com/wp-content/uploads/2017/12/make-cannons.jpg"
+    },
+    "9": {
+      "title": "Monster Hammer",
+      "artist": "Benett, Léon",
+      "country": "France",
+      "book": "The begums fortune",
+      "author": "Verne, Jules",
+      "description": "Workers are maneuvering a large piece of metal ready to be forged, to guide it into place under a large steam hammer.",
+      "img": "https://www.oldbookillustrations.com/wp-content/uploads/2017/12/monster-hammer.jpg"
+    },
+    "10": {
+      "title": "Puddlers at Work",
+      "artist": "Benett, Léon",
+      "country": "France",
+      "book": "The begums fortune",
+      "author": "Verne, Jules",
+      "description": "A bare-chested puddler stands in front of a furnace, maneuvering the hook as a helper stays behind him and co-workers are busy around.",
+      "img": "https://www.oldbookillustrations.com/wp-content/uploads/2017/12/puddlers.jpg"
+    }
+  }
+}

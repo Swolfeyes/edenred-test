@@ -1,0 +1,17 @@
+.app {
+  padding-top: 50px;
+
+  &__body {
+    padding: 20px 80px;
+
+    &__pending, &__fail {
+      margin-top: 200px;
+    }
+
+    &__success {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+    }
+  }
+}

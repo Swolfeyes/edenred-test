@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
+.loading-component {
+  display: table;
+  margin: auto;
+
+  &__text {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+    color: #B02100;
+  }
+
+  &__icon {
+    display: table;
+    margin: auto;
+    padding-top: 20px;
+  }
+}

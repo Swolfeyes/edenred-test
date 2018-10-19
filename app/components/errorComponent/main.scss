@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
+.error-component {
+  display: table;
+  margin: auto;
+  padding: 50px;
+
+  &__text {
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+    color: #B02100;
+  }
+}
